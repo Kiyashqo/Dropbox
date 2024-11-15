@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pubg Drop Box
+* source:	https://sketchfab.com/3d-models/pubg-drop-box-7dc71a8cab1d46cca02bb68b35136d7b
+* author:	totini (https://sketchfab.com/totini)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pubg Drop Box" (https://sketchfab.com/3d-models/pubg-drop-box-7dc71a8cab1d46cca02bb68b35136d7b) by totini (https://sketchfab.com/totini) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
